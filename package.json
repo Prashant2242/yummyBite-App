@@ -1,0 +1,44 @@
+{
+  "name": "mste-react",
+  "version": "1.0.0",
+  "description": "this is react by prashant bhatt",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "prashant",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.26.7",
+    "@babel/preset-env": "^7.26.7",
+    "@babel/preset-react": "^7.26.3",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/react": "^16.2.0",
+    "autoprefixer": "^9.8.8",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "parcel": "^2.13.3",
+    "postcss": "^7.0.39",
+    "process": "^0.11.10",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.5.1",
+    "jest-environment-jsdom": "^29.7.0",
+    "lucide-react": "^0.475.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-redux": "^9.2.0",
+    "react-router": "^7.1.5",
+    "react-router-dom": "^7.1.5"
+  }
+}
