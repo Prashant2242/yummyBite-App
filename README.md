@@ -43,9 +43,11 @@ npm install
 
 3️⃣ Start the Development Server
 
-npm start
+PS E:\all about react imp here\react yummy bite> parcel index.html
+>>
+Server running at http://localhost:1234 
+√  Built in 6.59s.
 
-Your app will be running at http://localhost:3000/
 
 📂 Project Structure
 
