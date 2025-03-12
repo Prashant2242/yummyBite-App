@@ -48,6 +48,11 @@ PS E:\all about react imp here\react yummy bite> parcel index.html
 Server running at http://localhost:1234 
 √  Built in 6.59s.
 
+![Image](https://github.com/user-attachments/assets/78e12441-5be9-4671-b691-868b12f68513)
+
+![Image](https://github.com/user-attachments/assets/06f33b6a-5f00-430e-bbd2-1c287db92b11)
+
+![Image](https://github.com/user-attachments/assets/0d51c97f-d04c-485e-b663-8d57cf37a734)
 
 📂 Project Structure
 
