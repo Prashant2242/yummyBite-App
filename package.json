@@ -2,7 +2,6 @@
   "name": "mste-react",
   "version": "1.0.0",
   "description": "this is react by prashant bhatt",
-  "main": "App.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
