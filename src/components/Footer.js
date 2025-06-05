@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import UserContext from "../utils/userContext";
 
-const footer=()=>{
+const Footer=()=>{
 
        const {user}=useContext(UserContext);
 
@@ -48,4 +48,4 @@ const footer=()=>{
 };
 
 
-export default footer;
+export default Footer;
