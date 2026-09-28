@@ -4,7 +4,7 @@ Yummy Bite - Food Delivery App
 
 Yummy Bite is a modern food delivery web application inspired by Swiggy, built using React, Redux, and TailwindCSS. The app provides a seamless experience for users to browse restaurants, explore menus, add items to the cart, and place orders.
 
-Live Project Link-[[yummy-bite-app.vercel.app](https://yummy-bite-app.vercel.app/)](url)
+
 🔥 Features
 
 Browse a list of restaurants
